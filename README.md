@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=heygsc)
+![Visitor Count](https://profile-counter.glitch.me/heygsc/count.svg)
+
 <!--
 **heygsc/heygsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
