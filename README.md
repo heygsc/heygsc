@@ -1,4 +1,6 @@
 # 👋 Hey , I’m gsc
+
+<!-- 
 <h3> &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp 😀&nbsp😁&nbsp😂&nbsp😃&nbsp😄 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😅&nbsp😆&nbsp😉&nbsp😊&nbsp😋&nbsp😎 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😍&nbsp😘&nbsp😗&nbsp😙&nbsp😚&nbsp😇</h3>
 
 <h3> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😐 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😑 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😶</h3>
@@ -12,6 +14,10 @@
 <h3>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😦 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😬 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😧 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😨</h3>
 
 <h3> &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😰&nbsp🎅&nbsp😡&nbsp👦&nbsp😱 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😳&nbsp🔎&nbsp🚀 &nbsp🎁&nbsp💎&nbsp😵 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 🎨&nbsp ⏳&nbsp 😈&nbsp🔧&nbsp👷&nbsp😠</h3>
+
+-->
+
+<img src="/gsc.png">
 
 emoji:gsc
 <br>
