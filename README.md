@@ -1,2 +1,2 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=heygsc&color=orange)
+![](https://komarev.com/ghpvc/?username=heygsc&)
