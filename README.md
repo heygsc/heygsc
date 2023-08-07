@@ -21,7 +21,6 @@
 
 emoji:gsc
 <br>
-<br>
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=heygsc&show_icons=true&theme=codeSTACKr"  height="150">
