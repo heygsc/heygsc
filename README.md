@@ -17,7 +17,7 @@
 
 -->
 
-<img src="/gsc.png"  height="150">emoji:gsc
+<img src="/gsc.png"  height="150">
 <br>
 
 <!--
