@@ -1,5 +1,7 @@
 # 👋 Hey , I’m gsc
 
+## Vuex contributor && TinyVue contributor
+
 <!-- 
 <h3> &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp 😀&nbsp😁&nbsp😂&nbsp😃&nbsp😄 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😅&nbsp😆&nbsp😉&nbsp😊&nbsp😋&nbsp😎 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😍&nbsp😘&nbsp😗&nbsp😙&nbsp😚&nbsp😇</h3>
 
