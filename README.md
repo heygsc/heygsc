@@ -1,6 +1,6 @@
 # 👋 Hey , I’m gsc
 
-# 🎨 Web & Rust & Go & Python & C++ 
+# 🎨 Rust & Web & Go & Python & C++ 
 
 ## 🎉 <a href="https://github.com/vuejs/vuex">Vuex</a> contributor && <a href="https://github.com/opentiny/tiny-vue">TinyVue</a> contributor 
 
