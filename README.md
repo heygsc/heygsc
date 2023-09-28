@@ -1,8 +1,8 @@
-# 👋 Hey , I’m gsc
+### 👋 Hey , I’m gsc
 
-## 🎉 <a href="https://github.com/vuejs/vuex">Vuex</a> contributor && <a href="https://github.com/opentiny/tiny-vue">TinyVue</a> contributor 
+### 🎉 <a href="https://github.com/vuejs/vuex">Vuex</a> contributor && <a href="https://github.com/opentiny/tiny-vue">TinyVue</a> contributor 
 
-## ✨ <a href="https://github.com/heygsc/xiaoheihe-literature">xiaoheihe-literature</a> owner && <a href="https://github.com/heygsc/word-wind">word-wind</a> owner && <a href="https://github.com/heygsc/ultra-button">ultra-button</a> owner
+### ✨ <a href="https://github.com/heygsc/xiaoheihe-literature">xiaoheihe-literature</a> owner && <a href="https://github.com/heygsc/word-wind">word-wind</a> owner && <a href="https://github.com/heygsc/ultra-button">ultra-button</a> owner
 
 <!-- 
 
@@ -23,7 +23,7 @@
 -->
 
 <br>
-<img src="/gsc.png"  height="150">
+<img src="/gsc.png"  height="100">
 <br>
 
 <!--
@@ -31,7 +31,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=heygsc&theme=dark&hide_border=true"  height="150">
 -->
 
-## 花开堪折直须折，莫待无花空折枝。
+##### 花开堪折直须折，莫待无花空折枝。
 
 <br>
 
