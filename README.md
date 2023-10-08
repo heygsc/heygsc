@@ -2,8 +2,6 @@
 
 ### 🎉 <a href="https://github.com/vuejs/vuex">Vuex</a> contributor && <a href="https://github.com/opentiny/tiny-vue">TinyVue</a> contributor 
 
-### ✨ <a href="https://github.com/heygsc/xiaoheihe-literature">xiaoheihe-literature</a> owner && <a href="https://github.com/heygsc/word-wind">word-wind</a> owner && <a href="https://github.com/heygsc/ultra-button">ultra-button</a> owner
-
 <!-- 
 
 <h3> &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp 😀&nbsp😁&nbsp😂&nbsp😃&nbsp😄 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😅&nbsp😆&nbsp😉&nbsp😊&nbsp😋&nbsp😎 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😍&nbsp😘&nbsp😗&nbsp😙&nbsp😚&nbsp😇</h3>
