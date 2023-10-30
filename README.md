@@ -6,7 +6,7 @@
 
 ## contact me : [1596920983@qq.com](mailto:1596920983@qq.com)
 
-## 贡献过的，有意思的项目
+## 贡献过的一些，有意思的项目
 
 #### 🎉 <a href="https://github.com/vuejs/vuex">Vuex</a> contributor && <a href="https://github.com/opentiny/tiny-vue">TinyVue</a> contributor 
 
