@@ -5,15 +5,15 @@
 #### 🎉 <a href="https://github.com/vuejs/vuex">Vuex</a> contributor && <a href="https://github.com/opentiny/tiny-vue">TinyVue</a> contributor 
 
 ## 做过的一些，好玩的东西
-- <h4>黑盒圣经:收集了各种故事&段子（大多来自现实，很多为爱情主题。**MkDocs**构建）</h4>
+- <h4>黑盒圣经:收集了各种故事&段子（大多来自现实，很多为爱情主题。MkDocs构建）</h4>
   
 [https://github.com/heygsc/xiaoheihe-literature](https://github.com/heygsc/xiaoheihe-literature)
 
-- <h4>单词之风:在线背单词网页（丝滑舒适，词库丰富。**JavaScript**构建）</h4>
+- <h4>单词之风:在线背单词网页（丝滑舒适，词库丰富。JavaScript构建）</h4>
 
 [https://github.com/heygsc/word-wind](https://github.com/heygsc/word-wind)
 
-- <h4>ultra-button（按钮样式库，样式种类丰富。支持**Vue**）</h4>
+- <h4>ultra-button（按钮样式库，样式种类丰富。支持Vue）</h4>
 
 [https://github.com/heygsc/ultra-button](https://github.com/heygsc/ultra-button)
 <!-- 
