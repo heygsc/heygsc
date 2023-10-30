@@ -2,6 +2,18 @@
 
 ### 🎉 <a href="https://github.com/vuejs/vuex">Vuex</a> contributor && <a href="https://github.com/opentiny/tiny-vue">TinyVue</a> contributor 
 
+### 做过的一些好玩的东西
+- 黑盒圣经:收集了各种故事&段子（mkdocs构建，大多来自现实，很多为爱情主题）
+  
+[https://github.com/heygsc/xiaoheihe-literature](https://github.com/heygsc/xiaoheihe-literature)
+
+- 单词之风:在线背单词网页（丝滑舒适，词库丰富，js构建）
+
+[https://github.com/heygsc/word-wind](https://github.com/heygsc/word-wind)
+
+- ultra-button（按钮样式库，样式种类丰富，支持vue）
+
+[https://github.com/heygsc/ultra-button](https://github.com/heygsc/ultra-button)
 <!-- 
 
 <h3> &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp 😀&nbsp😁&nbsp😂&nbsp😃&nbsp😄 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😅&nbsp😆&nbsp😉&nbsp😊&nbsp😋&nbsp😎 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😍&nbsp😘&nbsp😗&nbsp😙&nbsp😚&nbsp😇</h3>
