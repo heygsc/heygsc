@@ -4,7 +4,7 @@
 
   - [Vuex](https://github.com/vuejs/vuex) （Vue-状态管理）
 
-  - [TinyVue](https://github.com/opentiny/tiny-vue)（华为开源-组件库）
+  - [TinyVue](https://github.com/opentiny/tiny-vue) （华为开源-组件库）
 
 - 做过的一些，好玩的东西
   
