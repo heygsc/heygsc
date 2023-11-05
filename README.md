@@ -2,23 +2,18 @@
 
 - 贡献过的一些，有意思的项目
 
-  - <a href="https://github.com/vuejs/vuex">Vuex</a> （Vue-状态管理）
-  
-  - <a href="https://github.com/opentiny/tiny-vue">TinyVue</a> （华为开源-组件库）
+  - [Vuex](https://github.com/vuejs/vuex) （Vue-状态管理）
+
+  - [TinyVue](https://github.com/opentiny/tiny-vue)（华为开源-组件库）
 
 - 做过的一些，好玩的东西
   
-  - 黑盒圣经：收集了各种故事&段子（大多来自现实，很多为爱情主题。MkDocs构建）
-  
-    - [https://github.com/heygsc/xiaoheihe-literature](https://github.com/heygsc/xiaoheihe-literature)
-  
-  - 单词之风：在线背单词网页（丝滑舒适，词库丰富。JavaScript构建）
+  - [黑盒圣经（xiaoheihe-literature）](https://github.com/heygsc/xiaoheihe-literature) （MkDocs构建。爱情主题为主，故事&段子）
 
-    - [https://github.com/heygsc/word-wind](https://github.com/heygsc/word-wind)
+  - [单词之风（word-wind）](https://github.com/heygsc/word-wind) （JavaScript构建。在线背单词网页，丝滑舒适，词库丰富）
 
-  - ultra-button（按钮样式库，样式种类丰富。支持Vue）
+  - [ultra-button](https://github.com/heygsc/ultra-button) （Vue-按钮样式库。样式种类丰富）
 
-    - [https://github.com/heygsc/ultra-button](https://github.com/heygsc/ultra-button)
 <!-- 
 
 <h3> &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp 😀&nbsp😁&nbsp😂&nbsp😃&nbsp😄 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😅&nbsp😆&nbsp😉&nbsp😊&nbsp😋&nbsp😎 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 😍&nbsp😘&nbsp😗&nbsp😙&nbsp😚&nbsp😇</h3>
