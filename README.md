@@ -34,12 +34,12 @@
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=heygsc&show_icons=true&theme=codeSTACKr"  height="150">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=heygsc&theme=dark&hide_border=true"  height="150">
--->
-
-- emoji
 
 <img src="/gsc.png"  height="100">
+-->
 
 - contact me : [1596920983@qq.com](mailto:1596920983@qq.com)
+
+- <a href="https://www.zhihu.com/people/heygsc">知乎</a> . <a href="https://juejin.cn/user/3540892041350174">掘金</a>
 
 ![](https://komarev.com/ghpvc/?username=heygsc&color=orange&style=for-the-badge)
