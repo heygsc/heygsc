@@ -36,10 +36,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=heygsc&theme=dark&hide_border=true"  height="150">
 -->
 
-![](https://komarev.com/ghpvc/?username=heygsc&color=orange&style=for-the-badge)
-
-emoji
+- emoji
 
 <img src="/gsc.png"  height="100">
 
-contact me : [1596920983@qq.com](mailto:1596920983@qq.com)
+- contact me : [1596920983@qq.com](mailto:1596920983@qq.com)
+
+![](https://komarev.com/ghpvc/?username=heygsc&color=orange&style=for-the-badge)
