@@ -1,6 +1,6 @@
 👋 Hey , I’m gsc
 
-- <a href="https://www.zhihu.com/people/heygsc">知乎</a> . <a href="https://juejin.cn/user/3540892041350174">掘金</a>
+- <a href="https://juejin.cn/user/3540892041350174">掘金</a> . <a href="https://www.zhihu.com/people/heygsc">知乎</a>
 
 - contact me : [1596920983@qq.com](mailto:1596920983@qq.com)
 
