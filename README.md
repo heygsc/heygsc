@@ -6,6 +6,8 @@
 
 - 贡献过的一些，有意思的项目
 
+  - [vue-docs](https://github.com/vuejs/docs) （Vue-官网）
+
   - [Vuex](https://github.com/vuejs/vuex) （Vue-状态管理）
 
   - [TinyVue](https://github.com/opentiny/tiny-vue) （华为开源-组件库）
