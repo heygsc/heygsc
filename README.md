@@ -12,7 +12,7 @@
 
   - [ultra-button](https://github.com/heygsc/ultra-button) (Vue-按钮样式库。样式种类丰富)
 
-- pr
+- pr(merged)
 
   - [https://github.com/vuejs/docs/pull/2572](https://github.com/vuejs/docs/pull/2572) (样式)
 
