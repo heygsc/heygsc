@@ -6,11 +6,11 @@
 
 - project
   
-  - [黑盒圣经（xiaoheihe-literature）](https://github.com/heygsc/xiaoheihe-literature) （MkDocs构建。爱情主题为主，故事&段子）
+  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (MkDocs构建。爱情主题为主，故事&段子)
 
-  - [单词之风（word-wind）](https://github.com/heygsc/word-wind) （JavaScript构建。在线背单词网页，丝滑舒适，词库丰富）
+  - [单词之风 (word-wind)](https://github.com/heygsc/word-wind) (JavaScript构建。在线背单词网页，丝滑舒适，词库丰富)
 
-  - [ultra-button](https://github.com/heygsc/ultra-button) （Vue-按钮样式库。样式种类丰富）
+  - [ultra-button](https://github.com/heygsc/ultra-button) (Vue-按钮样式库。样式种类丰富)
 
 - pr
 
