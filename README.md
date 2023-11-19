@@ -6,11 +6,11 @@
 
 - project
 
-  - [单词之风 (word-wind)](https://github.com/heygsc/word-wind) (JavaScript构建。在线背单词网页)
+  - [单词之风 (word-wind)](https://github.com/heygsc/word-wind) (JavaScript构建，在线背单词网页)
 
-  - [ultra-button](https://github.com/heygsc/ultra-button) (Vue构建。按钮样式库)
+  - [ultra-button](https://github.com/heygsc/ultra-button) (Vue构建，按钮样式库)
 
-  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (娱乐向，非技术。MkDocs构建。段子收集)
+  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (娱乐向，非技术。MkDocs构建，段子收集)
 
 - pr ( merged )
 
