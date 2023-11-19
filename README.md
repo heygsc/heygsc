@@ -10,7 +10,7 @@
 
   - [ultra-button](https://github.com/heygsc/ultra-button) (Vue-按钮样式库。样式种类丰富)
 
-  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (技术不深，内容为主。MkDocs构建。爱情主题为主，故事&段子)
+  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (娱乐向。MkDocs构建。爱情主题为主，故事&段子)
 
 - pr ( merged )
 
@@ -18,7 +18,7 @@
 
   - [https://github.com/vuejs/vuex/pull/2229](https://github.com/vuejs/vuex/pull/2229) (配置)
 
-  - [https://github.com/opentiny/tiny-vue/pull/171](https://github.com/opentiny/tiny-vue/pull/171) (技术不深，文档修复)
+  - [https://github.com/opentiny/tiny-vue/pull/171](https://github.com/opentiny/tiny-vue/pull/171) (文档)
 
 <!-- 
 
