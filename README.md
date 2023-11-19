@@ -10,7 +10,7 @@
 
   - [ultra-button](https://github.com/heygsc/ultra-button) (Vue-按钮样式库。样式种类丰富)
 
-  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (娱乐向。MkDocs构建。爱情主题为主，故事&段子)
+  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (娱乐向，非技术。MkDocs构建。爱情主题为主，故事&段子)
 
 - pr ( merged )
 
