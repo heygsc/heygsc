@@ -5,12 +5,12 @@
 - contact me : [1596920983@qq.com](mailto:1596920983@qq.com)
 
 - project
-  
-  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (MkDocs构建。爱情主题为主，故事&段子)
 
   - [单词之风 (word-wind)](https://github.com/heygsc/word-wind) (JavaScript构建。在线背单词网页，丝滑舒适，词库丰富)
 
   - [ultra-button](https://github.com/heygsc/ultra-button) (Vue-按钮样式库。样式种类丰富)
+
+  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (技术不深，内容为主。MkDocs构建。爱情主题为主，故事&段子)
 
 - pr ( merged )
 
@@ -18,7 +18,7 @@
 
   - [https://github.com/vuejs/vuex/pull/2229](https://github.com/vuejs/vuex/pull/2229) (配置)
 
-  - [https://github.com/opentiny/tiny-vue/pull/171](https://github.com/opentiny/tiny-vue/pull/171) (文档)
+  - [https://github.com/opentiny/tiny-vue/pull/171](https://github.com/opentiny/tiny-vue/pull/171) (技术不深，文档修复)
 
 <!-- 
 
