@@ -9,6 +9,8 @@
   - [https://github.com/vuejs/vuex/pull/2229](https://github.com/vuejs/vuex/pull/2229) (配置)
 
   - [https://github.com/vuejs/docs/pull/2578](https://github.com/vuejs/docs/pull/2578) (demo)
+  
+  - [https://github.com/vuejs/docs/pull/2632](https://github.com/vuejs/docs/pull/2632) (delete)
 
   - [https://github.com/opentiny/tiny-vue/pull/171](https://github.com/opentiny/tiny-vue/pull/171) (文档)
     
