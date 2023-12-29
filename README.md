@@ -8,9 +8,11 @@
 
   - [https://github.com/vuejs/vuex/pull/2229](https://github.com/vuejs/vuex/pull/2229) (配置)
 
-  - [https://github.com/vuejs/docs/pull/2578](https://github.com/vuejs/docs/pull/2578) (demo)
+  - [https://github.com/vuejs/docs/pull/2578](https://github.com/vuejs/docs/pull/2578) (playground demo)
+
+  - [https://github.com/nuxt/nuxt/pull/24948](https://github.com/nuxt/nuxt/pull/24948) (文档)
   
-  - [https://github.com/vuejs/docs/pull/2632](https://github.com/vuejs/docs/pull/2632) (delete)
+  - [https://github.com/vuejs/docs/pull/2632](https://github.com/vuejs/docs/pull/2632) (文档)
 
   - [https://github.com/opentiny/tiny-vue/pull/171](https://github.com/opentiny/tiny-vue/pull/171) (文档)
     
