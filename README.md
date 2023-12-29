@@ -9,6 +9,8 @@
   - [https://github.com/vuejs/vuex/pull/2229](https://github.com/vuejs/vuex/pull/2229) (配置)
 
   - [https://github.com/vuejs/docs/pull/2578](https://github.com/vuejs/docs/pull/2578) (playground demo)
+  
+  - [https://github.com/tailwindlabs/tailwindcss.com/pull/1751](https://github.com/tailwindlabs/tailwindcss.com/pull/1751) (文档)
 
   - [https://github.com/nuxt/nuxt/pull/24948](https://github.com/nuxt/nuxt/pull/24948) (文档)
   
