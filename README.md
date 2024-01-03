@@ -3,6 +3,8 @@
 - <a href="https://juejin.cn/user/3540892041350174">掘金</a> . <a href="https://www.zhihu.com/people/heygsc">知乎</a>
 
 - pr ( merged )
+  
+  - [https://github.com/vuejs/router/pull/2099](https://github.com/vuejs/router/pull/2099) (样式)
 
   - [https://github.com/vuejs/docs/pull/2572](https://github.com/vuejs/docs/pull/2572) (样式)
 
