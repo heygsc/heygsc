@@ -7,6 +7,8 @@
   - [https://github.com/vuejs/router/pull/2099](https://github.com/vuejs/router/pull/2099) (样式)
 
   - [https://github.com/vuejs/docs/pull/2572](https://github.com/vuejs/docs/pull/2572) (样式)
+  
+  - [https://github.com/element-plus/element-plus/pull/15694](https://github.com/element-plus/element-plus/pull/15694) (样式)
 
   - [https://github.com/vuejs/vuex/pull/2229](https://github.com/vuejs/vuex/pull/2229) (配置)
 
