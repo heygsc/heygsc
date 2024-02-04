@@ -10,6 +10,8 @@
   
   - [https://github.com/element-plus/element-plus/pull/15694](https://github.com/element-plus/element-plus/pull/15694) (样式)
 
+  - [https://github.com/element-plus/element-plus/pull/15276](https://github.com/element-plus/element-plus/pull/15276) (样式) 
+
   - [https://github.com/vuejs/vuex/pull/2229](https://github.com/vuejs/vuex/pull/2229) (配置)
 
   - [https://github.com/vuejs/docs/pull/2578](https://github.com/vuejs/docs/pull/2578) (playground demo)
