@@ -32,9 +32,9 @@
 
   - [ultra-button](https://github.com/heygsc/ultra-button) (Vue构建，按钮样式库)
  
-  - [数数游戏 (count-puzzle)](https://github.com/heygsc/count-puzzle) (Vue构建，数数游戏，自动计时)
+  - [数数游戏 (count-puzzle)](https://github.com/heygsc/count-puzzle) (Vue构建，数数游戏)
   
-  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (娱乐向，非技术。MkDocs构建，段子收集)
+  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (MkDocs构建文档，段子收集)
 
 <!-- 
 
