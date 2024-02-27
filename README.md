@@ -25,6 +25,8 @@
   - [https://github.com/vuejs/docs/pull/2632](https://github.com/vuejs/docs/pull/2632) (文档)
 
   - [https://github.com/opentiny/tiny-vue/pull/171](https://github.com/opentiny/tiny-vue/pull/171) (文档)
+  
+  - [https://github.com/mdn/translated-content/pull/18331](https://github.com/mdn/translated-content/pull/18331) (文档)
     
 - project
 
