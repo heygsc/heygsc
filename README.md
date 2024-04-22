@@ -32,7 +32,7 @@
     
 - project
 
-  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (MkDocs构建，段子收集)
+  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (VitePress构建，段子收集)
   
   - [单词之风 (word-wind)](https://github.com/heygsc/word-wind) (JavaScript构建，在线背单词网页)
 
