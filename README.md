@@ -2,7 +2,9 @@
 
 - <a href="https://juejin.cn/user/3540892041350174">掘金</a> . <a href="https://www.zhihu.com/people/heygsc">知乎</a>
 
-- pr ( merged )
+<details>
+
+<summary>pr ( merged )</summary>
   
   - [https://github.com/vuejs/router/pull/2099](https://github.com/vuejs/router/pull/2099) (样式)
 
@@ -29,8 +31,12 @@
   - [https://github.com/opentiny/tiny-vue/pull/171](https://github.com/opentiny/tiny-vue/pull/171) (文档)
   
   - [https://github.com/mdn/translated-content/pull/18331](https://github.com/mdn/translated-content/pull/18331) (文档)
-    
-- project
+
+</details>
+
+<details>
+
+<summary>project</summary>
 
   - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (VitePress构建，段子收集)
   
@@ -41,6 +47,8 @@
   - [数数游戏 (count-puzzle)](https://github.com/heygsc/count-puzzle) (Vue构建，数数游戏)
   
   - [answer-yes](https://github.com/heygsc/answer-yes) (Vue构建)
+
+</details>
 
 <!-- 
 
