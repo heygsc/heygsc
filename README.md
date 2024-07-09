@@ -5,32 +5,34 @@
 <details>
 
 <summary>pr ( merged )</summary>
-  
-  - [https://github.com/vuejs/router/pull/2099](https://github.com/vuejs/router/pull/2099) (样式)
 
-  - [https://github.com/vuejs/docs/pull/2572](https://github.com/vuejs/docs/pull/2572) (样式)
+  - https://github.com/vueuse/motion/pull/211 (ts类型优化)
   
-  - [https://github.com/element-plus/element-plus/pull/15694](https://github.com/element-plus/element-plus/pull/15694) (样式)
+  - https://github.com/vuejs/router/pull/2099 (样式)
 
-  - [https://github.com/element-plus/element-plus/pull/15276](https://github.com/element-plus/element-plus/pull/15276) (样式)
+  - https://github.com/vuejs/docs/pull/2572 (样式)
   
-  - [https://github.com/nodejs/nodejs.org/pull/6395](https://github.com/nodejs/nodejs.org/pull/6395) (样式) 
+  - https://github.com/element-plus/element-plus/pull/15694 (样式)
 
-  - [https://github.com/vuejs/vuex/pull/2229](https://github.com/vuejs/vuex/pull/2229) (配置)
+  - https://github.com/element-plus/element-plus/pull/15276 (样式)
+  
+  - https://github.com/nodejs/nodejs.org/pull/6395 (样式) 
 
-  - [https://github.com/vuejs/docs/pull/2578](https://github.com/vuejs/docs/pull/2578) (playground demo)
-  
-  - [https://github.com/vuejs/router/pull/2120](https://github.com/vuejs/router/pull/2120) (删除无效import)
-  
-  - [https://github.com/tailwindlabs/tailwindcss.com/pull/1751](https://github.com/tailwindlabs/tailwindcss.com/pull/1751) (文档)
+  - https://github.com/vuejs/vuex/pull/2229 (配置)
 
-  - [https://github.com/nuxt/nuxt/pull/24948](https://github.com/nuxt/nuxt/pull/24948) (文档)
+  - https://github.com/vuejs/docs/pull/2578 (playground demo)
   
-  - [https://github.com/vuejs/docs/pull/2632](https://github.com/vuejs/docs/pull/2632) (文档)
+  - https://github.com/vuejs/router/pull/2120 (删除无效import)
+  
+  - https://github.com/tailwindlabs/tailwindcss.com/pull/1751 (文档)
 
-  - [https://github.com/opentiny/tiny-vue/pull/171](https://github.com/opentiny/tiny-vue/pull/171) (文档)
+  - https://github.com/nuxt/nuxt/pull/24948 (文档)
   
-  - [https://github.com/mdn/translated-content/pull/18331](https://github.com/mdn/translated-content/pull/18331) (文档)
+  - https://github.com/vuejs/docs/pull/2632 (文档)
+
+  - https://github.com/opentiny/tiny-vue/pull/171 (文档)
+  
+  - https://github.com/mdn/translated-content/pull/18331 (文档)
 
 </details>
 
