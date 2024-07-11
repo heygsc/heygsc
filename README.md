@@ -23,6 +23,8 @@
   - https://github.com/vuejs/docs/pull/2578 (playground demo)
   
   - https://github.com/vuejs/router/pull/2120 (删除无效import)
+  
+  - https://github.com/vueuse/motion/pull/210 (文档)
 
   - https://github.com/umijs/umi/pull/12555 (文档)
   
