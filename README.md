@@ -6,6 +6,8 @@
 
 <summary>pr ( merged )</summary>
 
+  - https://github.com/oxc-project/oxc/pull/4590 (linter bug fix)
+
   - https://github.com/vueuse/motion/pull/211 (ts类型优化)
   
   - https://github.com/vuejs/router/pull/2099 (样式)
