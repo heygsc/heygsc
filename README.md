@@ -49,6 +49,8 @@
   - [单词之风 (word-wind)](https://github.com/heygsc/word-wind) (JavaScript构建，在线背单词网页)
 
   - [ultra-button](https://github.com/heygsc/ultra-button) (Vue构建，按钮样式库)
+
+  - [create-many-app](https://github.com/heygsc/create-many-app) (可以选择构建工具创建项目的cli)
  
   - [数数游戏 (count-puzzle)](https://github.com/heygsc/count-puzzle) (Vue构建，数数游戏)
   
