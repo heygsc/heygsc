@@ -1,5 +1,7 @@
 <a href="https://www.zhihu.com/people/heygsc">知乎</a> . <a href="https://juejin.cn/user/3540892041350174">掘金</a>
 
+<a href="https://juejin.cn/post/7406147963837939727">冷门语法的深度解读：从oxc的pr出发，聊聊js-label标记语句</a>
+
 <details>
 
 <summary>pr ( merged )</summary>
