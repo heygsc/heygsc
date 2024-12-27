@@ -2,7 +2,7 @@
 
 趣文推荐 : <a href="https://juejin.cn/post/7406147963837939727">冷门语法的深度解读：从oxc的pr出发，聊聊js-label标记语句</a>
 
-oxc : https://github.com/oxc-project/oxc/commits?author=heygsc
+[Oxc Contributor](https://github.com/oxc-project/oxc/commits?author=heygsc)
 
 <details>
 
