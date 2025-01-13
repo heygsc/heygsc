@@ -8,6 +8,8 @@
 
 <summary>pr ( merged )</summary>
 
+  - https://github.com/gosub-io/gosub-engine/commits?author=heygsc (gosub)
+
   - https://github.com/oxc-project/oxc/commits?author=heygsc (oxc)
 
   - https://github.com/vueuse/motion/pull/211 (ts类型优化)
