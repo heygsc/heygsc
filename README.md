@@ -8,6 +8,8 @@
 
 <summary>pr ( merged )</summary>
 
+  - https://github.com/boa-dev/boa/commits?author=heygsc (boa)
+
   - https://github.com/gosub-io/gosub-engine/commits?author=heygsc (gosub)
 
   - https://github.com/oxc-project/oxc/commits?author=heygsc (oxc)
