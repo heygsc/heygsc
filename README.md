@@ -9,8 +9,6 @@
   - https://github.com/gosub-io/gosub-engine/commits?author=heygsc (gosub)
 
   - https://github.com/oxc-project/oxc/commits?author=heygsc (oxc)
-  
-  - https://github.com/reactjs/zh-hans.react.dev/pull/1667 (文档)
 
   - https://github.com/umijs/umi/pull/12555 (文档)
 
