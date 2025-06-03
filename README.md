@@ -12,11 +12,11 @@
 
   - https://github.com/vueuse/motion/commits?author=heygsc (vueuse-motion)
 
+  - https://github.com/element-plus/element-plus/commits?author=heygsc (element-plus)
+
   - https://github.com/vuejs/router/commits?author=heygsc (vue-router)
   
   - https://github.com/vuejs/docs/commits?author=heygsc (vue-docs)
-
-  - https://github.com/element-plus/element-plus/commits?author=heygsc (element-plus)
 
   - https://github.com/umijs/umi/pull/12555
 
