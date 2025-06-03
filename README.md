@@ -2,47 +2,47 @@
 
 <details>
 
-<summary>pr ( merged )</summary>
+<summary>pr (merged & 1000+ stars)</summary>
 
   - https://github.com/boa-dev/boa/commits?author=heygsc (boa)
 
   - https://github.com/gosub-io/gosub-engine/commits?author=heygsc (gosub)
 
   - https://github.com/oxc-project/oxc/commits?author=heygsc (oxc)
+  
+  - https://github.com/reactjs/zh-hans.react.dev/pull/1667 (文档)
+
+  - https://github.com/umijs/umi/pull/12555 (文档)
 
   - https://github.com/vueuse/motion/pull/211 (ts类型优化)
   
-  - https://github.com/vuejs/router/pull/2099 (样式)
+  - https://github.com/vueuse/motion/pull/210 (文档)
 
-  - https://github.com/vuejs/docs/pull/2572 (样式)
-  
-  - https://github.com/element-plus/element-plus/pull/15694 (样式)
-
-  - https://github.com/element-plus/element-plus/pull/15276 (样式)
-  
   - https://github.com/nodejs/nodejs.org/pull/6395 (样式) 
 
-  - https://github.com/vuejs/vuex/pull/2229 (配置)
+  - https://github.com/mdn/translated-content/pull/18331 (文档)
+
+  - https://github.com/vuejs/router/pull/2120 (删除无效import)
+
+  - https://github.com/element-plus/element-plus/pull/15694 (样式)
+
+  - https://github.com/vuejs/router/pull/2099 (样式)
+
+  - https://github.com/nuxt/nuxt/pull/24948 (文档)
+
+  - https://github.com/tailwindlabs/tailwindcss.com/pull/1751 (文档)
+
+  - https://github.com/vuejs/docs/pull/2632 (文档)
+
+  - https://github.com/element-plus/element-plus/pull/15276 (样式)
 
   - https://github.com/vuejs/docs/pull/2578 (playground demo)
   
-  - https://github.com/vuejs/router/pull/2120 (删除无效import)
-  
-  - https://github.com/reactjs/zh-hans.react.dev/pull/1667 (文档)
-  
-  - https://github.com/vueuse/motion/pull/210 (文档)
+  - https://github.com/vuejs/docs/pull/2572 (样式) 
 
-  - https://github.com/umijs/umi/pull/12555 (文档)
-  
-  - https://github.com/tailwindlabs/tailwindcss.com/pull/1751 (文档)
-
-  - https://github.com/nuxt/nuxt/pull/24948 (文档)
-  
-  - https://github.com/vuejs/docs/pull/2632 (文档)
+  - https://github.com/vuejs/vuex/pull/2229 (配置)
 
   - https://github.com/opentiny/tiny-vue/pull/171 (文档)
-  
-  - https://github.com/mdn/translated-content/pull/18331 (文档)
 
 </details>
 
