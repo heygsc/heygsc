@@ -18,8 +18,6 @@
   
   - https://github.com/vuejs/docs/commits?author=heygsc (vue-docs)
 
-  - https://github.com/brisa-build/brisa/pull/880
-
   - https://github.com/umijs/umi/pull/12555
 
   - https://github.com/nodejs/nodejs.org/pull/6395
