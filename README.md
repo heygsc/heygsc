@@ -42,17 +42,17 @@
 
   - [create-many-app](https://github.com/heygsc/create-many-app) (可以选择构建工具创建项目的cli)
 
-  - [rust-benchmark-action](https://github.com/heygsc/rust-benchmark-action) (github actions多平台极简benchmark)
+  - [rust-benchmark-action](https://github.com/heygsc/rust-benchmark-action) (Github Actions多平台极简benchmark)
 
-  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (VitePress构建，段子收集)
+  - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (段子收集)
   
-  - [单词之风 (word-wind)](https://github.com/heygsc/word-wind) (JavaScript构建，在线背单词网页)
+  - [单词之风 (word-wind)](https://github.com/heygsc/word-wind) (在线背单词网页)
 
-  - [ultra-button](https://github.com/heygsc/ultra-button) (Vue构建，按钮样式库)
+  - [ultra-button](https://github.com/heygsc/ultra-button) (Vue按钮样式库)
  
-  - [数数游戏 (count-puzzle)](https://github.com/heygsc/count-puzzle) (Vue构建，数数游戏)
+  - [数数游戏 (count-puzzle)](https://github.com/heygsc/count-puzzle) (数数游戏)
   
-  - [answer-yes](https://github.com/heygsc/answer-yes) (Vue构建)
+  - [answer-yes](https://github.com/heygsc/answer-yes) (趣味按钮)
 
 </details>
 
