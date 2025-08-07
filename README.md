@@ -40,9 +40,9 @@
 
   - [circle-net](https://github.com/heygsc/circle-net) (暴力美学)
 
-  - [rust-benchmark-action](https://github.com/heygsc/rust-benchmark-action) (github actions多平台极简benchmark)
-
   - [create-many-app](https://github.com/heygsc/create-many-app) (可以选择构建工具创建项目的cli)
+
+  - [rust-benchmark-action](https://github.com/heygsc/rust-benchmark-action) (github actions多平台极简benchmark)
 
   - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (VitePress构建，段子收集)
   
