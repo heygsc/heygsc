@@ -46,7 +46,7 @@
 
   - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (段子收集)
   
-  - [单词之风 (word-wind)](https://github.com/heygsc/word-wind) (在线背单词网页)
+  - [word-wind](https://github.com/heygsc/word-wind) (在线背单词网页)
 
   - [ultra-button](https://github.com/heygsc/ultra-button) (Vue按钮样式库)
  
