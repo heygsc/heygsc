@@ -40,7 +40,7 @@
 
   - [circle-net](https://github.com/heygsc/circle-net) (暴力美学)
 
-  - [create-many-app](https://github.com/heygsc/create-many-app) (可以选择构建工具创建项目的cli)
+  - [create-many-app](https://github.com/heygsc/create-many-app) (可以在创建前端项目时，选择构建工具的cli)
 
   - [rust-benchmark-action](https://github.com/heygsc/rust-benchmark-action) (Github Actions多平台极简benchmark)
 
