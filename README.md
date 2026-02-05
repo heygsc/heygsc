@@ -4,11 +4,11 @@
 
 <summary>pr (merged & 1000+ stars)</summary>
 
+  - https://github.com/oxc-project/oxc/commits?author=heygsc (oxc)
+
   - https://github.com/boa-dev/boa/commits?author=heygsc (boa)
 
   - https://github.com/gosub-io/gosub-engine/commits?author=heygsc (gosub)
-
-  - https://github.com/oxc-project/oxc/commits?author=heygsc (oxc)
 
   - https://github.com/vueuse/motion/commits?author=heygsc (vueuse-motion)
 
