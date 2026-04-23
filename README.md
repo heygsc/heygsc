@@ -42,7 +42,7 @@
 
   - [create-many-app](https://github.com/heygsc/create-many-app) (可以在创建前端项目时，选择构建工具的cli)
 
-  - [rust-benchmark-action](https://github.com/heygsc/rust-benchmark-action) (Github Actions多平台极简benchmark)
+  - [test-rust-benchmark-action](https://github.com/heygsc/test-rust-benchmark-action) (Github Actions多平台极简benchmark)
 
   - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (段子收集)
   
