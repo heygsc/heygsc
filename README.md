@@ -42,17 +42,19 @@
 
   - [create-many-app](https://github.com/heygsc/create-many-app) (可以在创建前端项目时，选择构建工具的cli)
 
-  - [test-rust-benchmark-action](https://github.com/heygsc/test-rust-benchmark-action) (Github Actions多平台极简benchmark)
-
   - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (段子收集)
   
   - [word-wind](https://github.com/heygsc/word-wind) (在线背单词网页)
 
   - [ultra-button](https://github.com/heygsc/ultra-button) (Vue按钮样式库)
+
+  - [random-png](https://github.com/heygsc/random-png) (Github Actions 随机图片生成)
  
   - [数数游戏 (count-puzzle)](https://github.com/heygsc/count-puzzle) (数数游戏)
   
   - [answer-yes](https://github.com/heygsc/answer-yes) (趣味按钮)
+
+  - [test-rust-benchmark-action](https://github.com/heygsc/test-rust-benchmark-action) (Github Actions多平台极简benchmark)
 
 </details>
 
