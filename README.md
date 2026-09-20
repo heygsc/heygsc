@@ -54,8 +54,6 @@
   
   - [answer-yes](https://github.com/heygsc/answer-yes) (趣味按钮)
 
-  - [test-rust-benchmark-action](https://github.com/heygsc/test-rust-benchmark-action) (Github Actions多平台极简benchmark)
-
 </details>
 
 <!-- 
