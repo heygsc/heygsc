@@ -40,6 +40,8 @@
 
   - [circle-net](https://github.com/heygsc/circle-net) (暴力美学)
 
+  - [random-png](https://github.com/heygsc/random-png) (Github Actions 随机图片生成)
+
   - [create-many-app](https://github.com/heygsc/create-many-app) (可以在创建前端项目时，选择构建工具的cli)
 
   - [黑盒圣经 (xiaoheihe-literature)](https://github.com/heygsc/xiaoheihe-literature) (段子收集)
@@ -47,8 +49,6 @@
   - [word-wind](https://github.com/heygsc/word-wind) (在线背单词网页)
 
   - [ultra-button](https://github.com/heygsc/ultra-button) (Vue按钮样式库)
-
-  - [random-png](https://github.com/heygsc/random-png) (Github Actions 随机图片生成)
  
   - [数数游戏 (count-puzzle)](https://github.com/heygsc/count-puzzle) (数数游戏)
   
