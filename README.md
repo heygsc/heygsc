@@ -50,7 +50,7 @@
 
   - [ultra-button](https://github.com/heygsc/ultra-button) (Vue按钮样式库)
  
-  - [数数游戏 (count-puzzle)](https://github.com/heygsc/count-puzzle) (数数游戏)
+  - [count-puzzle](https://github.com/heygsc/count-puzzle) (数数游戏)
   
   - [answer-yes](https://github.com/heygsc/answer-yes) (趣味按钮)
 
